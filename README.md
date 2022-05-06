@@ -1,6 +1,6 @@
 ## Hi there, I'm Océane! 👋👩🏻‍💻
 
-I'm a final year Master of BigData & Analytics student at ECE Paris. I'm curently based in Paris, France.
+I'm a Machine Learning Engineer @ Xomnia. I'm curently based in Amsterdam, Netherlands.
 
 ### 👩🏻‍🎓 Education
 - Master of BigData & Analytics, ECE Paris
